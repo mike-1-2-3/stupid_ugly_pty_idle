@@ -1,0 +1,26 @@
+Wych Elm0234567
+Field Elm1
+White Elm17
+Rock Elm02
+Brown Trout
+Eel
+Sunroot
+carbohydrates
+fat
+protein
+prebiotic
+taste
+health bonus
+iodine
+vitamin a
+vitamin c
+vitamin k
+vitamin b6
+vitamin b12
+thiamin
+riboflavin
+niacin
+folate
+iron
+zinc
+calcium

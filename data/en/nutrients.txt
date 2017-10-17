@@ -1,0 +1,56 @@
+name: carbohydrates
+description: Sugar and stuff.
+
+name: fat
+description: Needed for living.
+
+name: protein
+description: Needed for living.
+
+name: prebiotic
+description: Needed for health.
+
+name: taste
+description: Makes people happier.
+
+name: health bonus
+description: Keeps people from getting sick as often.
+
+name: iodine
+description: Deficiency makes children stupider.
+
+name: vitamin a
+description: Deficiency causes illness.
+
+name: vitamin c
+description: Deficiency causes illness.
+
+name: vitamin k
+description: Deficiency causes illness.
+
+name: vitamin b6
+description: Deficiency causes illness.
+
+name: vitamin b12
+description: Deficiency causes illness.
+
+name: thiamin
+description: Deficiency causes illness.
+
+name: riboflavin
+description: Deficiency causes illness.
+
+name: niacin
+description: Deficiency causes illness.
+
+name: folate
+description: Deficiency causes illness.
+
+name: iron
+description: Deficiency causes illness.
+
+name: zinc
+description: Deficiency causes illness.
+
+name: calcium
+description: Deficiency causes weakness.

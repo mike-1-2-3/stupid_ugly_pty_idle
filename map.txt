@@ -1,0 +1,31 @@
+MMMMMMMFFFFFFFFFFFFFFFFFFFFFFFFFFF                                         
+MMMMMMFFFFFFFFFFFFFFFFFFFFFFF FFFFF                                        
+MMMM  F   FFFFF FFFF FFFFFF FFFFFF FF                FFF                   
+MMMMM FF    F     F FFFF FFF   FFFF                FFFF                    
+MMMMMFFFF  FFF  FFF  FFFF       FFFFF               FF                     
+MMMMFFFFFFFFFFF          FFFF  FFFF                                        
+MMMMMMFFFFFFFFF    FF    FFF                                               
+MMMMMMMFFFFFFF    FFFFFF FFFF                                              
+MMMMMMMFFF         FFFF                           FF                       
+MMMMMMMFF   FFFF                                 FFFF                      
+MMMMMMFFFF   FFF                                                           
+MMMMMMMFFF    FF                                                       FFFF
+MMMMMMFFF                                                          FFFFFFFF
+MMMMMMFFF                                                   C    FFFFRRRRRR
+MMMMMMFF                                                        FFRRRRFFFFF
+MMMRRMMRR                                                     FFFRRFFFFFF  
+RRRMMRMRR          FFF                                   FFFFFFFRRFFFFF    
+MMMMMMRMF         FFFFFF                F    FF        FFFFFFRRRRFFFF      
+MMMMMMMMF  FFFF    FFFF                F    FFF     FFFFFFRRRRF  FFFFF     
+MMMMMMFF  FFFFFFFF   FFF                          FFFFFRRRRF FFFF          
+MMMMFFFFF   FFFFFFF FFFFFF               FFFF  F FFF RRRFFFF FFF           
+MMMFFFFFFF   FFFFFFF FFFF               FFFF    FF FRRFFFFFFF              
+MMMMFFFFFF     FFF    FF FF    FFFF FF         FFFFRRFFFFFF                
+MMMMFFFFF    FFF    FFFFF   FFF  FFF          FFFRRRFFFFFFBFF              
+MMMMMFFFF   FFFFF  FFFFFFF    FFFF         FFFFFRRFFFFFFFBB   FFFF         
+MMMMMFF F            FFFF                FFFFRRRRFFFFFFFFBBB     FFF       
+MMMMMM    FFF      FFFFF   FF            FFFFRFFFF        BBFFF            
+MMMMMMFFF  FF     FFFFF                FFFFFRRF  FFFFF FFBBBB              
+MMMMMFFFFF                            F  FFRRFFFFFF   FFFBBB FF            
+MMMMFFFFF  FFFF                       FF FRRFFFFFFF   F   B   F            
+MMMMFFF                               FFFFRFFFFF                           

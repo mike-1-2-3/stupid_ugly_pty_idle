@@ -1,0 +1,12 @@
+Position
+Appointee
+Vacant
+converse
+dismiss
+hunt
+repeat
+economy
+buildings
+Supply
+Demand
+details

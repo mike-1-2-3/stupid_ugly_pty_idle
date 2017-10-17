@@ -1,0 +1,11 @@
+Great Hall
+Herald
+Court
+Categories
+Items
+Position
+Description
+Conversation Between %s and %s
+Target
+Provinces
+Description

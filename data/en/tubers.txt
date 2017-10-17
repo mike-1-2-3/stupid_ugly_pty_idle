@@ -1,0 +1,15 @@
+name: Sunroot
+description: A type of sunflower with edible tubers.
+yield: 20
+nutrients:
+  carbohydrates: 6
+  vitamin c: 7
+  thiamin: 13
+  riboflavin: 4
+  niacin: 7
+  vitamin b6: 4
+  folate: 3
+  calcium: 1
+  iron: 19
+  zinc: 1
+  prebiotic: 100

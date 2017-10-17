@@ -1,0 +1,19 @@
+name: Grand Panetier
+description: In charge of the pantry and setting the table.
+salary: 6
+
+name: Gentlemen Usher
+description: The steward's assistant.
+salary: 6
+
+name: Cofferer
+description: Manages the royal accountants.
+salary: 14
+
+name: Master of the Hunt
+description: Organizes and guides royal hunts.
+salary: 20
+
+name: Captain of the Guard
+description: In charge of your protection.
+salary: 20

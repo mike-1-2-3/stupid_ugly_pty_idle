@@ -1,0 +1,15 @@
+name: Wych Elm
+description: A highly prized decorative wood, also suitable for boat building and a general purpose high quality wood.
+properties: high quality wood, boat building, decorative wood, bow wood, piping, fast growing, common
+
+name: Field Elm
+description: A low quality wood.
+properties: low quality wood
+
+name: White Elm
+description: A low quality wood.
+properties: low quality wood, common
+
+name: Rock Elm
+description: A slow growing, high quality wood suitable for shipbuilding.
+properties: high quality wood, boat building, slow growing

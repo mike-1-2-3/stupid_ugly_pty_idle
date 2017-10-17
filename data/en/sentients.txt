@@ -1,0 +1,21 @@
+name: Human
+description: Ape like creatures prone to delusions and emotional instability.
+brain_min: 10
+brain_max: 30
+magic_chance: 1
+magic_min: 1
+magic_max: 20
+birth_rate: 46
+size: 10
+speed: 10
+
+name: Reridraromderarum
+description: The origins of the reridraromderarum (sometimes shortened to reridra by outsiders) are lost to the past. However, it is clear that they resulted from the interbreading of human and saplinox communities in the Crepuscular planes. Modern alchemists have found that trace amounts of eborionic essences can be distilled from reridra blood, suggesting that one or more Saffex devas are common ancestors of the reridrarom. This influence is thought to outweigh some of the more evil tendencies exhibited by the saplinox.
+brain_min: 20
+brain_max: 70
+magic_chance: 20
+magic_min: 1
+magic_max: 40
+birth_rate: 30
+size: 10
+speed: 12

@@ -1,0 +1,6 @@
+plains
+bog
+forest
+river
+mountains
+city

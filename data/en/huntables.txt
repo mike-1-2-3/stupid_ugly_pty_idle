@@ -1,0 +1,29 @@
+name: Boar
+description: There's a huge boar population in the area. Infinite, more or less. You'll be doing the farmers a favor if you kill some of the ones rooting around near their potatoes.
+spawn_min: 1
+spawn_max: 2
+elusiveness: 1
+stamina: 10
+down_chance: 30
+strength: 3
+pierce: 1
+armor: 1
+reflex: 5
+ticks_between_block: 7
+skill: 10
+ticks_between_attack: 6
+
+name: Bandit
+description: Bandits reduce taxable income, general prosperity, and happiness. You may not be able to wipe them out permanently, but you can still try!
+spawn_min: 1
+spawn_max: 5
+elusiveness: 2
+stamina: 12
+down_chance: 20
+strength: 5
+pierce: 2
+armor: 2
+reflex: 7
+ticks_between_block: 6
+skill: 12
+ticks_between_attack: 5

@@ -1,0 +1,33 @@
+name: Brown Trout
+description: A common type of trout.
+yield: 20
+nutrients:
+  protein: 35
+  fat: 9
+  thiamin: 20
+  riboflavin: 17
+  niacin: 19
+  vitamin B6: 8
+  vitamin B12: 110
+  iron: 7
+  zinc: 4
+  folate: 3
+  iodine: 50
+  health bonus: 2
+
+name: Eel
+description: A migratory, finless, fish that can live for 85 years.
+yield: 10
+  protein: 40
+  fat: 20
+  vitamin A: 64
+  thiamin: 10
+  niacin: 19
+  riboflavin: 3
+  folate: 4
+  vitamin B12: 41
+  calcium: 2
+  iron: 3
+  zinc: 12
+  iodine: 50
+  health bonus: 1

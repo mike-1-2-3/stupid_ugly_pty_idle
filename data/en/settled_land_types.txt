@@ -1,0 +1,5 @@
+farm
+bog
+forest
+fishing ground
+mine

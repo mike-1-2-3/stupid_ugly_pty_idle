@@ -1,0 +1,3 @@
+#!/bin/bash
+
+emacs data/en/*.txt data/en/menus/*.txt enums/* 

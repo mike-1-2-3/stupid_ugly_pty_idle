@@ -1,0 +1,3 @@
+#!/bin/bash
+
+emacs *.cpp *.hpp data_store/*.cpp data_store/*.hpp makefile
